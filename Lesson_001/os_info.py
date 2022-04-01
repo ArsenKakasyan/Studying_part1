@@ -1,6 +1,5 @@
 #собрать информацию об OS
 
-#TODO отправить инфу о системе на GIT
 import platform
 import sys
 
